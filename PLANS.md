@@ -27,6 +27,13 @@ ELLISONFILING.COM
            |.........             
 
 
+
+## Current Tools for the FrontEnd 
+
+- React/Vite 
+- Tailwindcss 
+- css.modules 
+
 ## MAIN PRIORITIES 
 
 

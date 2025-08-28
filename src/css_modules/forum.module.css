@@ -1,0 +1,23 @@
+:root{
+    --backdrop-filter: blur(21px);
+    --container-corvid-background-color:rgba(255,225,225,1);
+    --container-corvid-border-color:rgba(23,13,242,1);
+    --bg:rgba(225,225,255,1);
+    --color_11: rgb(225,225,225);
+    --color_15:rgb(0,0,0);
+    --alpha-bg: 1;
+    --rd: 40px,40px,40px,40px;
+    --brd: rgb(23,13,242);
+    --shd: 0.00px, 5.00px, 40px, 0px rgba(0,0,0,0.2);
+}
+
+.forum{
+    background-color: var(--container-corvid-background-color, rgba(var(--bg, var(--color_11), var(--alpha-bg))));
+    background-image: var(none);
+    backdrop-filter: 21px;
+    border: var(--containercorvid-);
+    box-shadow: var(--shd, 0 1px 4px rgba(0,0,0, 6.));
+    border-radius: var(--rd,5px);
+    border: var(1px) solid var(--container-corvid-border-color, rgba(var(--brd, var(--color_15)), var(--alpha-bg,1)));
+
+}

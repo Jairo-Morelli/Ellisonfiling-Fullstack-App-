@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.paris{
+    background-image: url("./../assets/paris.avif");
+    width: auto;
+    height: 400px;
+}
+
