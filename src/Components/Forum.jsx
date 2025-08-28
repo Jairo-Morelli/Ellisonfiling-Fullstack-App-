@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react"
-import style from "../css_modules/Forum.module.css"
+import style from "../css_modules/forum.module.css"
 
 function Forum(){
 
